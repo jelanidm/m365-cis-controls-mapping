@@ -1,13 +1,13 @@
-# CIS Controls v8 IG1 — Microsoft 365 Implementation Mapping
+# CIS Controls v8 IG1 - Microsoft 365 Implementation Mapping
 
 ## Mapping Essential Cyber Hygiene to Microsoft 365 Business Premium
 
-**Framework:** CIS Critical Security Controls v8 — Implementation Group 1 (56 Safeguards)  
+**Framework:** CIS Critical Security Controls v8 - Implementation Group 1 (56 Safeguards)  
 **Platform:** Microsoft 365 Business Premium (including Defender for Business and Intune)  
-**Context:** MedCaribe Health Group — 55-person private healthcare provider, Trinidad and Tobago  
+**Context:** MedCaribe Health Group - 55-person private healthcare provider, Trinidad and Tobago  
 **Author:** Jelani D. Maitland  
 **Date:** March 2026  
-**Related Project:** [MedCaribe Security Program (Project 1)](https://github.com/jelani-maitland/medcaribe-security-program)
+**Related Project:** [MedCaribe Security Program (Project 1)](https://github.com/jelanidm/medcaribe-security-program)
 
 ---
 
@@ -15,7 +15,7 @@
 
 This project maps every one of the 56 CIS Controls v8 Implementation Group 1 (IG1) safeguards to specific Microsoft 365 Business Premium features, settings, and capabilities. Each mapping identifies which M365 component satisfies the control, the admin portal path where the setting is configured, and the current implementation status for MedCaribe Health Group.
 
-This is the companion to [Project 1 (MedCaribe Security Program)](https://github.com/jelani-maitland/medcaribe-security-program), which identified 20 cybersecurity risks and established governance documentation. This project answers the next question: "We know what our risks are. Now, how do we use the technology we already pay for to address them?"
+This is the companion to [Project 1 (MedCaribe Security Program)](https://github.com/jelanidm/medcaribe-security-program), which identified 20 cybersecurity risks and established governance documentation. This project answers the next question: "We know what our risks are. Now, how do we use the technology we already pay for to address them?"
 
 ---
 
@@ -88,8 +88,8 @@ m365-cis-controls-mapping/
 
 Jelani D. Maitland is a cybersecurity professional based in Trinidad and Tobago, holding CySA+, Security+, SC-200, and Fortinet FCA certifications. He specializes in security operations, governance, and risk management for small and midsize organizations in the Caribbean.
 
-- [LinkedIn](https://linkedin.com/in/jelani-maitland)
-- [GitHub](https://github.com/jelani-maitland)
+- [LinkedIn](https://linkedin.com/in/jelanidm)
+- [GitHub](https://github.com/jelanidm)
 
 ---
 
